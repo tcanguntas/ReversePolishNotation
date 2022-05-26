@@ -1,7 +1,4 @@
 /*
- * main.cpp
- *
- *  Created on: 26 May 2022
  *      Author: tayyipcan.guntas
  */
 #include <iostream>
